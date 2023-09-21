@@ -1,0 +1,7 @@
+C:\Прога\21.09.23!\Tum_LAB_3\bin\Debug\Tum_LAB_3.exe.config
+C:\Прога\21.09.23!\Tum_LAB_3\bin\Debug\Tum_LAB_3.exe
+C:\Прога\21.09.23!\Tum_LAB_3\bin\Debug\Tum_LAB_3.pdb
+C:\Прога\21.09.23!\Tum_LAB_3\obj\Debug\Tum_LAB_3.csproj.AssemblyReference.cache
+C:\Прога\21.09.23!\Tum_LAB_3\obj\Debug\Tum_LAB_3.csproj.CoreCompileInputs.cache
+C:\Прога\21.09.23!\Tum_LAB_3\obj\Debug\Tum_LAB_3.exe
+C:\Прога\21.09.23!\Tum_LAB_3\obj\Debug\Tum_LAB_3.pdb

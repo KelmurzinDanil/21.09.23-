@@ -1,0 +1,7 @@
+C:\Прога\21.09.23!\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Прога\21.09.23!\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Прога\21.09.23!\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Прога\21.09.23!\ConsoleApp1\obj\Debug\21.09.2023_DZ.csproj.AssemblyReference.cache
+C:\Прога\21.09.23!\ConsoleApp1\obj\Debug\21.09.2023_DZ.csproj.CoreCompileInputs.cache
+C:\Прога\21.09.23!\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Прога\21.09.23!\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
